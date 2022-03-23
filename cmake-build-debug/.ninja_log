@@ -1,0 +1,6 @@
+# ninja log v5
+4	622	6697631257342040	CMakeFiles/Forest.dir/main.cpp.obj	17a1b1855d1bfb99
+327	7099	6697623637860168	CMakeFiles/Forest.dir/animals.cpp.obj	21749fa75ef66646
+637	894	6697631259882294	Forest.exe	e303d3d89ddd315a
+193	3389	6697745712097310	build.ninja	f9c0ec4c1d775036
+19	636	6697631257552061	CMakeFiles/Forest.dir/trees.cpp.obj	18d5d22d7afb5709

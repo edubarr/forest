@@ -1,0 +1,6 @@
+﻿Árvores tem tamanho variável (de acordo com crescimento ou se foi comida), se chegar a 0, significa que foi totalmente comida. A cada ação tem uma chance em 10 de crescer;
+Árvores tem chance aleatória de ser espalhada e gerar outra árvore;
+Determinados animais comem determinadas árvores (se comer árvore venenosa, perde saúde, comendo árvore boa, recupera saúde);
+Animais podem ser herbívoros ou carnívoros;
+Animais possuem força que é usado para ataque e defesa; Animal com força maior vence o combate (carcaça do animal morto serve de adubo);
+Animais possuem medidor de fome, chegando a 10, morrem de fome;
