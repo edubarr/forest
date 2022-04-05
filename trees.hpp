@@ -1,5 +1,5 @@
 //
-// Created by eabarros on 22/03/2022.
+// Created by eduar on 22/03/2022.
 //
 
 #ifndef FOREST_TREES_HPP
@@ -16,6 +16,16 @@ bool edible;
 class Bamboo : Tree {
 public:
     explicit Bamboo(int size);
+};
+
+class Pine : Tree {
+public:
+    explicit Pine(int size);
+};
+
+class Ricinus : Tree {
+public:
+    explicit Ricinus(int size);
 };
 
 #endif //FOREST_TREES_HPP

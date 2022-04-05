@@ -1,6 +1,19 @@
 # ninja log v5
-4	622	6697631257342040	CMakeFiles/Forest.dir/main.cpp.obj	17a1b1855d1bfb99
-327	7099	6697623637860168	CMakeFiles/Forest.dir/animals.cpp.obj	21749fa75ef66646
-637	894	6697631259882294	Forest.exe	e303d3d89ddd315a
-193	3389	6697745712097310	build.ninja	f9c0ec4c1d775036
-19	636	6697631257552061	CMakeFiles/Forest.dir/trees.cpp.obj	18d5d22d7afb5709
+6	787	6708711380858683	CMakeFiles/Forest.dir/main.cpp.obj	c1601eb5da1f8ab3
+4	565	6708692756830289	CMakeFiles/Forest.dir/animals.cpp.obj	841ee55125e31f7a
+788	991	6708711382828813	Forest.exe	f8ccda46c660ed21
+193	3389	6708714579527906	build.ninja	f9c0ec4c1d775036
+5	851	6708692637499345	CMakeFiles/Forest.dir/trees.cpp.obj	26551bc2884a4287
+44	196	6708715234827624	CMakeFiles/Forest.dir/utils.cpp.obj	adfe13bac4fb972
+26	770	6708715240523238	CMakeFiles/Forest.dir/trees.cpp.obj	26551bc2884a4287
+7	772	6708715240593118	CMakeFiles/Forest.dir/main.cpp.obj	c1601eb5da1f8ab3
+33	776	6708715240593118	CMakeFiles/Forest.dir/animals.cpp.obj	841ee55125e31f7a
+777	1048	6708715243283335	Forest.exe	81a69ebe24c2cd8f
+6	902	6708715780012117	CMakeFiles/Forest.dir/main.cpp.obj	c1601eb5da1f8ab3
+903	1074	6708715781672857	Forest.exe	81a69ebe24c2cd8f
+6	714	6708717066918743	CMakeFiles/Forest.dir/main.cpp.obj	c1601eb5da1f8ab3
+715	916	6708717068858885	Forest.exe	81a69ebe24c2cd8f
+8	703	6708717239739989	CMakeFiles/Forest.dir/main.cpp.obj	c1601eb5da1f8ab3
+704	902	6708717241720132	Forest.exe	81a69ebe24c2cd8f
+4	678	6708717911445788	CMakeFiles/Forest.dir/main.cpp.obj	c1601eb5da1f8ab3
+679	867	6708717913274863	Forest.exe	81a69ebe24c2cd8f

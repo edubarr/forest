@@ -1,5 +1,5 @@
 //
-// Created by eabarros on 23/03/2022.
+// Created by eduar on 23/03/2022.
 //
 
 #ifndef FOREST_ANIMALS_HPP
@@ -23,6 +23,11 @@ private:
 class Panda : Animal {
 public:
     Panda();
+};
+
+class Folivora : Animal {
+public:
+    Folivora();
 };
 
 
